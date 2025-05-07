@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Omotolani
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Frontend development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: afolayanomotolani30@gmail.com
-- 😄 Pronouns: She/her
+- 📫 How to reach me: omotolaniafolayan85@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
